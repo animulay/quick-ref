@@ -15,19 +15,20 @@ This document is still work-in-progress.<br>
 - Functional Requirements
   - Desired Scale (back-of-the envelop calculations)
   - Constraints / Known Limitations, if any
-  - SLA
   
 - Behavioral Requirements
+  - SLA
 
 #### High Level Design
 - Is there scope for partitioning the problem?
+- Identify the main entities / components and the relationship between them
 
 #### Interface Design
 - API Design
 - Authentication & Authorization
 
 #### Data Management
-- Data Buffering / Caching
+- Is there scope for Data Buffering / Caching?
 - Data Persistence
 
 #### High Availability (HA), Fault Tolerance / Failover Handling
