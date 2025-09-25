@@ -16,7 +16,7 @@ This document is still work-in-progress.<br>
   - Desired Scale (back-of-the envelop calculations)
   - Constraints / Known Limitations, if any
   
-- Behavioral Requirements
+- Operational Requirements
   - SLA
 
 #### High Level Design
